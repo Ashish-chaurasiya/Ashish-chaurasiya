@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashish-chaurasiya
 - 👀 I’m interested in Android Developer
-- 🌱 I’m currently learning Core Java and Andrid
+- 🌱 I’m currently learning Core Java and Android
 
 
 <!---
